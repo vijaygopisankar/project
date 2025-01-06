@@ -32,4 +32,8 @@ Model Training:
           python app.py
 *	Open your browser and go to http://127.0.0.1:5000 to use the web application.
 
+Due to large size of dataset and the saved model I didn't upload the files.So plz download the data set file from the above mentioned link in the Step of instructions to run the code..
 
+If Any Query kindly mail me 
+
+     vijaygopisankar2000@gmail.com
