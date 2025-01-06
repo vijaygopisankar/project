@@ -12,11 +12,16 @@ Steps to Run
         https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T 
 
 2. Extract the Folder and upload it to google drive to run it in Google colab
+   
 3.Now open the Google colab and run the code by mounting the colab with google drive by providing the file path of the data file.
+
 4.Download the model which is saved in the google drive.
+
 5.Now download the Flask folder and paste that downloaded model in the Flask folder  and run it using the VS code .
-6. After running the VS code, copy the  link which is generated in the terminal and paste it in the browser. 
-7. upload a image to get which type of skin lesion does it belong to and how accurate the image .
+
+6. After running the VS code, copy the  link which is generated in the terminal and paste it in the browser.
+ 
+7.. upload a image to get which type of skin lesion does it belong to and how accurate the image .
 
 
 for jupyter:
